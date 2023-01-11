@@ -16,5 +16,5 @@ float delenie(int a, int b) {
 	return 0;
 };
 int stepen(int a, int b) {
-	return a ^ b;
+	return std::pow(a, b);
 };

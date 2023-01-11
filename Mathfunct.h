@@ -1,4 +1,5 @@
 #pragma once
+#include <iostream>
 
 int slogenie(int a, int b);
 int vichetanie(int a, int b);

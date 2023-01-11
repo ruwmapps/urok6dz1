@@ -4,7 +4,6 @@
 //20 в степени 2 = 400
 //
 
-#include <iostream>
 #include <windows.h>
 #include "Mathfunct.h"
 
